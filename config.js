@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "Gửi cho em - ngày 8/3",
     introTitle: 'Nguyễn Thị Chuyên',
-    introDesc: `Chung ta đã yêu nhau hơn 4 năm rồi, 
+    introDesc: `Chung ta đã yêu nhau hơn 4 năm rồi 
     Trong thời gian đó đã có những lúc vui lúc buồn
     Có những lúc tay rồi lại hợp
     Nhưng chúng ta vẫn là của nhau
-    Anh hy vong chúng ta sẽ bước tiếp, yêu em',
+    Anh hy vong chúng ta sẽ bước tiếp. yêu em',
     btnIntro: '^^HiHi^^',
     title: '4 năm không phải là dài cũng chẳng ngắn 🥰',
     desc: 'Nhưng đủ cho ta hiểu thế nào là yêu. chúng ta cùng cố gắng bước tiếp nhé ',
