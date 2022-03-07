@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cho em - ngày 8/3",
-    introTitle: 'Nguyễn Thị Chuyên',
+    introTitle: 'Người anh yêu',
     introDesc: `Chung ta đã yêu nhau hơn 4 năm rồi 
     Trong thời gian đó đã có những lúc vui lúc buồn
     Có những lúc tay rồi lại hợp
