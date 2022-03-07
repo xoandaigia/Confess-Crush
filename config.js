@@ -6,7 +6,7 @@ const CONFIG = {
     Có những lúc tay rồi lại hợp
     Nhưng chúng ta vẫn là của nhau
     Anh hy vong chúng ta sẽ bước tiếp. yêu em',
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HeHe^^',
     title: '4 năm không phải là dài cũng chẳng ngắn 🥰',
     desc: 'Nhưng đủ cho ta hiểu thế nào là yêu. chúng ta cùng cố gắng bước tiếp nhé ',
     btnYes: 'em đồng ý <33',
